@@ -1,2 +1,3 @@
 # V8
-практика
+start working with git
+
